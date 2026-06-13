@@ -1,0 +1,11 @@
+Priority,Filename,Topic Category,Key Keywords,Relevance
+Core,s41568-023-00586-2.pdf,mRNA Cancer Therapeutics,"mRNA, cancer vaccines, immunotherapy, CAR-T, gene editing",Very High - mRNA-based cancer therapeutics (Nature Reviews Cancer 2023)
+Core,s41565-022-01122-3.pdf,CRISPR + Cancer,"CRISPR-Cas9, PD-L1 knockout, cancer, immune checkpoint",Very High - CRISPR/Cas + PD-L1 + cancer (Nature Nanotechnology 2022)
+Core,Gene editing therapeutics based on mRNA delivery.pdf,Gene Editing via mRNA,"mRNA delivery, CRISPR-Cas9, gene editing",Very High - directly matches SOP focus
+Core,Enhancing CRISPR-Cas gene editing through.pdf,Gene Editing,"CRISPR-Cas9, gene editing enhancement",Very High - CRISPR enhancement strategies
+Core,2019038813 이재우 [mRNA를 활용한 암 진단 및 치료법]-원본.pdf,Cancer Diagnosis & Treatment,"mRNA, cancer diagnosis, cancer therapy",Very High - own prior work on mRNA in oncology
+Supporting,mRNA-based therapeutics — developing a new class of drugs.pdf,mRNA Therapeutics,"mRNA therapeutics, drug development",High - broad mRNA platform review
+Supporting,mRNA-based therapeutics powerful and versatile tools to combat diseases.pdf,mRNA Therapeutics,"mRNA, therapeutics, diseases",High - mRNA platform review
+Supporting,mRNA-based therapeutics looking beyond COVID-19 vaccines.pdf,mRNA Therapeutics,"mRNA, post-COVID, cancer",High - mRNA beyond vaccines
+Background,Advances in COVID-19 mRNA vaccine development.pdf,mRNA Vaccine,"COVID-19, mRNA vaccine",Low - platform context only
+Background,mRNA vaccines — a new era in vaccinology.pdf,mRNA Vaccine,mRNA vaccine,Low - platform context only
